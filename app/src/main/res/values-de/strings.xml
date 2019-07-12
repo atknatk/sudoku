@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">OpenSudoku</string>
+	<string name="app_name">AoskSudoku</string>
 	<string name="edit_sudoku">Sudoku-Rätsel bearbeiten</string>
 
-	<string name="puzzle_folders">OpenSudoku Rätsel-Ordner</string>
+	<string name="puzzle_folders">AoskSudoku Rätsel-Ordner</string>
 
 	<string name="version">Version: %s</string>
 	<string name="send_me_bugs">Falls Sie einen Fehler finden, den Sie gerne behoben haben möchten oder falls Sie

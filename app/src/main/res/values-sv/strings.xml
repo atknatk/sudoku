@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">OpenSudoku</string>
+	<string name="app_name">AoskSudoku</string>
 	<string name="edit_sudoku">Redigera sudoku</string>
 
-	<string name="puzzle_folders">OpenSudoku - mappar</string>
+	<string name="puzzle_folders">AoskSudoku - mappar</string>
 
 	<string name="version">Version: %s</string>
 	<string name="send_me_bugs">Om du stöter på en bugg du vill ha fixad eller har några förslag, tveka inte att

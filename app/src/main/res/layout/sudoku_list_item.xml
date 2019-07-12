@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:padding="6dp">
 
-    <org.moire.opensudoku.gui.SudokuBoardView
+    <com.everva.aosksudoku.gui.SudokuBoardView
         android:id="@+id/sudoku_board"
         android:layout_width="100sp"
         android:layout_height="100sp"

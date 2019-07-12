@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">OpenSudoku</string>
+	<string name="app_name">AoskSudoku</string>
 	<string name="edit_sudoku">Modifica sudoku</string>
 
-	<string name="puzzle_folders">Cartelle rompicapo OpenSudoku</string>
+	<string name="puzzle_folders">Cartelle rompicapo AoskSudoku</string>
 
 	<string name="version">Versione: %s</string>
 	<string name="send_me_bugs">Se trovi un problema che vuio risolvere o qualsiasi suggerimento, non esistare a

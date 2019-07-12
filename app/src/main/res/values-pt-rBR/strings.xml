@@ -2,7 +2,7 @@
 <resources>
 	<string name="app_name">Open Sudoku</string>
 	<string name="edit_sudoku">Editar Sudoku</string>
-	<string name="puzzle_folders">Pastas de jogos OpenSudoku</string>
+	<string name="puzzle_folders">Pastas de jogos AoskSudoku</string>
 	<string name="version">Versão %s</string>
 	<string name="send_me_bugs">
         Se você encontrar um erro, não hesite em contatar-me por email

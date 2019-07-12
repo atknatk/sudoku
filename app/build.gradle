@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion '26.0.2'
+   // buildToolsVersion '26.0.2'
 
     defaultConfig {
-        applicationId "org.moire.opensudoku"
+        applicationId "tr.com.everva.aosksudoku"
         minSdkVersion 8
         targetSdkVersion 22
         versionCode 20180507
-        versionName "2.5.2"
+        versionName "1.0.0"
     }
     buildTypes {
         release {
