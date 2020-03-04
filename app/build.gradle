@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "tr.com.everva.aosksudoku"
         minSdkVersion 8
-        targetSdkVersion 22
+        targetSdkVersion 28
         versionCode 20180507
         versionName "1.0.0"
     }
